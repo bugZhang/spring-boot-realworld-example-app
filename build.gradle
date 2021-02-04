@@ -29,6 +29,7 @@ dependencies {
     implementation 'org.flywaydb:flyway-core'
     implementation 'io.jsonwebtoken:jjwt:0.9.1'
     implementation 'joda-time:joda-time:2.10.6'
+    implementation 'mysql:mysql-connector-java'
 
     runtimeOnly 'com.h2database:h2'
 
